@@ -249,10 +249,10 @@ a {
   .showcase {
     height: 400px;
   }
-  .showcasecontent {
+  .showcase-content {
     text-align: center;
   }
-  .showcasecontent img {
+  .showcase-content img {
     display: none;
   }
 }
